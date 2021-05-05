@@ -10,5 +10,5 @@ import io.ktor.locations.Location
  * @constructor Operating routing of /tweet/{id}
  */
 @Location("/tweet/{id}")
-data class PostTweet(val id: Int)
+data class PostTweetLocation(val id: Int)
 
