@@ -5,5 +5,33 @@
     "latin_name": "Hydrangea macrophylla",
     "season": "5月から7月",
     "genus": "アジサイ属"
+  },
+  {
+    "id": 2,
+    "name": "アイビーゼラニウム",
+    "latin_name": "Pelargonium peltatum",
+    "season": "3月～7月ごろ、8月～12月ごろ",
+    "genus": "テンジクアオイ属"
+  },
+  {
+    "id": 3,
+    "name": "アエオニウム",
+    "latin_name": "Aeonium",
+    "season": "3月～6月",
+    "genus": "アエオニウム属"
+  },
+  {
+    "id": 4,
+    "name": "アガパンサス",
+    "latin_name": "Agapanthus",
+    "season": "5月～7月",
+    "genus": "アガパンサス属"
+  },
+  {
+    "id": 5,
+    "name": "アカンサス",
+    "latin_name": "Acanthus",
+    "season": "6月〜7月",
+    "genus": "ハアザミ属"
   }
 ]
